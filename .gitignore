@@ -1,0 +1,6 @@
+.sconsign.dblite
+local_scripts
+SRPG_Scratchpad/.import
+SRPG_Scratchpad/bin/*
+api.json
+src/*.obj
